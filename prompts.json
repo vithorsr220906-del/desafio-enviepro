@@ -1,0 +1,50 @@
+[
+    {
+      "ordem": 1,
+      "ferramenta": "ChatGPT",
+      "objetivo": "Obter orientação para configurar o ambiente de desenvolvimento no Windows e iniciar o projeto.",
+      "prompt": "Oriente-me passo a passo, desde o início, para preparar o ambiente e começar o desafio técnico EnviePro.",
+      "resultado": "Orientações para configurar as ferramentas, acessar o projeto e organizar sua estrutura.",
+      "observacoes": "As instruções foram executadas gradualmente, com acompanhamento das mensagens e dos erros apresentados no terminal."
+    },
+    {
+      "ordem": 2,
+      "ferramenta": "ChatGPT",
+      "objetivo": "Desenvolver o backend e conectar o sistema ao banco de dados.",
+      "prompt": "Ajude-me a desenvolver o backend do CRM utilizando Go, Gin e SQLite, explicando cada etapa.",
+      "resultado": "Implementação da API, criação das tabelas e inserção de dados fictícios de clientes, oportunidades e vendas.",
+      "observacoes": "Foram realizados testes nas rotas da API para verificar o retorno dos dados."
+    },
+    {
+      "ordem": 3,
+      "ferramenta": "ChatGPT",
+      "objetivo": "Desenvolver a interface do sistema CRM.",
+      "prompt": "Oriente-me passo a passo na construção do frontend do CRM utilizando Next.js, React e Tailwind CSS.",
+      "resultado": "Criação do painel inicial, da página de CRM, da página de configurações e da navegação lateral.",
+      "observacoes": "O desenvolvimento foi acompanhado no Cursor, com verificações no navegador."
+    },
+    {
+      "ordem": 4,
+      "ferramenta": "ChatGPT",
+      "objetivo": "Resolver problemas de integração e controle de versões.",
+      "prompt": "Ajude-me a identificar e corrigir os erros encontrados durante o desenvolvimento e a utilização do Git e GitHub.",
+      "resultado": "Resolução de problemas de execução de comandos no PowerShell e recuperação de arquivos por meio da atualização do repositório.",
+      "observacoes": "As soluções foram aplicadas conforme os erros apareciam durante o desenvolvimento."
+    },
+    {
+      "ordem": 5,
+      "ferramenta": "ChatGPT",
+      "objetivo": "Verificar o funcionamento e a qualidade do projeto.",
+      "prompt": "Oriente-me a executar os testes e verificar se o frontend e o backend estão funcionando corretamente.",
+      "resultado": "Execução de verificações do backend, lint e build do frontend, além de testes manuais das páginas e rotas da API.",
+      "observacoes": "Os comandos de verificação foram executados com sucesso."
+    },
+    {
+      "ordem": 6,
+      "ferramenta": "ChatGPT",
+      "objetivo": "Preparar a documentação exigida para a entrega.",
+      "prompt": "Ajude-me a preparar o README.md, o RELATORIO.md e o prompts.json conforme os requisitos do desafio.",
+      "resultado": "Elaboração da documentação de instalação, execução, decisões técnicas, dificuldades, testes e utilização de inteligência artificial.",
+      "observacoes": "O conteúdo foi elaborado com base nas atividades e experiências relatadas durante o desenvolvimento."
+    }
+  ]
